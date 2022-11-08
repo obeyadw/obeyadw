@@ -28,6 +28,7 @@ requests, os, etc
 
     Data Analytics,    karpov.courses   2022
     Deep Learning : advanced course, Stepik autumn 2022
+    Computer Science Center 2021
     Yandex python algorithms 2021
     Statistics (1-3 parts),  Stepik   2021
     Datacamp 2021
