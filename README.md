@@ -5,7 +5,7 @@ I'm currently looking for a job as Data Analyst
 
 ---
 🔎 You can find me here:
-[Telegram](https://t.me/obeyad), [Gmail](obeyadw@yahoo.com)
+[Telegram](https://t.me/obeyad), [@mail](obeyadw@yahoo.com)
 
 
 ## My projects
