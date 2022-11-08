@@ -12,11 +12,10 @@ I'm currently looking for a job as Data Analyst
 ##  My technology stack: 
 
 **SQL**, **Python**, Git,  AirFlow, Tableau, Redash
+**Python Modules:**
 Pandas, NumPy, Matplotlib, Seaborn, Scipy, 
 sklearn, catBoost, xgboost,
 requests, os, etc
-
-
 
 
 ## Education
@@ -27,6 +26,11 @@ requests, os, etc
     Statistics (1-3 parts),  Stepik   2021
     Datacamp 2021
     ... etc.
+   
+## My projects:
+
+1. [E comm EDA, cohorts, retantion, visualization](https://github.com/obeyadw/obeyadw.github.io/blob/main/Projects/First_project_e-commerce.ipynb) (Python)
+2. [EdTech EDA, АБ тесты](https://github.com/obeyadw/obeyadw.github.io/blob/main/Projects/variant_2.ipynb) (Python, SQL)   
    
 ## About me
 
