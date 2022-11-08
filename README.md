@@ -8,6 +8,10 @@ I'm currently looking for a job as Data Analyst
 [Telegram](https://t.me/obeyad), [Gmail](obeyadw@yahoo.com)
 
 
+## My projects
+1. [Анализ каналов привлечения пользователей](https://github.com/obeyadw/obeyadw.github.io/blob/main/Projects/customer%20acquisition%20channels.ipynb) (Python)
+2. [E comm EDA, cohorts, retantion, visualization](https://github.com/obeyadw/obeyadw.github.io/blob/main/Projects/First_project_e-commerce.ipynb) (Python)
+3. [EdTech EDA, АБ тесты](https://github.com/obeyadw/obeyadw.github.io/blob/main/Projects/variant_2.ipynb) (Python, SQL)
 
 ##  My technology stack: 
 
@@ -28,11 +32,6 @@ requests, os, etc
     Statistics (1-3 parts),  Stepik   2021
     Datacamp 2021
     ... etc.
-   
-## My projects
-1. [Анализ каналов привлечения пользователей](https://github.com/obeyadw/obeyadw.github.io/blob/main/Projects/customer%20acquisition%20channels.ipynb) (Python)
-2. [E comm EDA, cohorts, retantion, visualization](https://github.com/obeyadw/obeyadw.github.io/blob/main/Projects/First_project_e-commerce.ipynb) (Python)
-3. [EdTech EDA, АБ тесты](https://github.com/obeyadw/obeyadw.github.io/blob/main/Projects/variant_2.ipynb) (Python, SQL)
 
    
    
