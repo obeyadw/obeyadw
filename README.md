@@ -12,6 +12,7 @@ I'm currently looking for a job as Data Analyst
 ##  My technology stack: 
 
 **SQL**, **Python**, Git,  AirFlow, Tableau, Redash
+
 **Python Modules:**
 Pandas, NumPy, Matplotlib, Seaborn, Scipy, 
 sklearn, catBoost, xgboost,
