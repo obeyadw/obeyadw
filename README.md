@@ -13,6 +13,7 @@ I'm currently looking for a job as Data Analyst
 2. [Поиск "сломанных" распределений фичей yandex'a, затронутых багом](https://github.com/obeyadw/obeyadw.github.io/blob/main/Projects/yandex_search_features.ipynb) (Python, stats)
 3. [E comm EDA, cohorts, retantion, visualization](https://github.com/obeyadw/obeyadw.github.io/blob/main/Projects/First_project_e-commerce.ipynb) (Python)
 4. [EdTech EDA, АБ тесты](https://github.com/obeyadw/obeyadw.github.io/blob/main/Projects/variant_2.ipynb) (Python, SQL)
+5. [HR analytics](https://public.tableau.com/app/profile/obeyadw/viz/Book1_16464864730110/Dashboard1) (Tableau BI)
 
 ##  My technology stack: 
 
