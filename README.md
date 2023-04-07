@@ -27,8 +27,8 @@ requests, os, etc
 
 
 ## Education
-    ![alt text](https://raw.githubusercontent.com/obeyadw/obeyadw.github.io/main/certificates/kc.png)
-    ![alt text](https://raw.githubusercontent.com/obeyadw/obeyadw.github.io/main/certificates/yndx.png)
+![alt text](https://raw.githubusercontent.com/obeyadw/obeyadw.github.io/main/certificates/kc.png)
+![alt text](https://raw.githubusercontent.com/obeyadw/obeyadw.github.io/main/certificates/yndx.png)
     Data Analytics,    karpov.courses   2022
     Deep Learning : advanced course, Stepik autumn 2022
     Computer Science Center 2021
