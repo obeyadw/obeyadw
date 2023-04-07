@@ -27,15 +27,14 @@ requests, os, etc
 
 
 ## Education
-<img src="https://raw.githubusercontent.com/obeyadw/obeyadw.github.io/main/certificates/kc.png" width="500">
-<img src="https://raw.githubusercontent.com/obeyadw/obeyadw.github.io/main/certificates/yndx.png" width="500">
     Data Analytics,    karpov.courses   2022
     Deep Learning : advanced course, Stepik autumn 2022
     Computer Science Center 2021
     Yandex python algorithms 2021
     Statistics (1-3 parts),  Stepik   2021
     Datacamp 2021
-    ... etc.
+<img src="https://raw.githubusercontent.com/obeyadw/obeyadw.github.io/main/certificates/kc.png" width="500">
+<img src="https://raw.githubusercontent.com/obeyadw/obeyadw.github.io/main/certificates/yndx.png" width="500">
 
    
    
